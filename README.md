@@ -83,3 +83,5 @@
   **💼 Open to exciting opportunities and collaborations!**  
   **🌟 Let's build something amazing together!**
 </div>
+## 🎵 Currently Vibing To
+<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
