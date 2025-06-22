@@ -36,14 +36,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🌟 Recent Projects
-
-### ☕ [CAFFE - Coffee Shop Website](https://github.com/Yigittalha/caffe-website)
-Modern responsive website built with React & Tailwind CSS
-
-### 🤖 Baby AI Assistant  
-AI-powered assistant with natural language processing capabilities
-
 ## 📊 GitHub Stats
 
 <div align="center">
