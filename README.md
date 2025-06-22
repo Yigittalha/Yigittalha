@@ -36,20 +36,20 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 📈 3D Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yigittalha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Yigittalha&theme=radical&area=true&hide_border=true" alt="3D Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yigittalha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yigittalha&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yigittalha&theme=radical&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigittalha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
