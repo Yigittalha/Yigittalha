@@ -1,15 +1,16 @@
 # Hey there! I'm Yigit 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Web+Designer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;RESTful+API+Designer;Docker+Enthusiast;AI+Integration+Specialist" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
 🌍 **Based in:** İstanbul, Turkey  
-💻 **Focus:** Modern Web Development & AI Integration  
-🎯 **Goal:** Building user-centric applications with clean, efficient code  
+💻 **Focus:** Full-Stack Development with Modern Technologies  
+🎯 **Specialty:** Building scalable web applications with clean architecture  
 ☕ **Fun fact:** I create coffee shop websites that make you crave caffeine!  
+🐳 **Docker enthusiast:** Containerizing everything for seamless deployment
 
 ## 🛠️ Tech Stack
 
@@ -20,30 +21,28 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend & Data
+### 🔧 Backend & API
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### 🗄️ Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-## 🌟 Featured Projects
+## 🌟 Recent Projects
 
-### ☕ [CAFFE - Premium Coffee Shop Website](https://github.com/Yigittalha/caffe-website)
-Modern, responsive coffee shop website built with **React** & **Tailwind CSS**
-- 📱 Mobile-first design with smooth animations
-- 🎨 Interactive menu with high-quality images  
-- 💬 Customer testimonials carousel
-- 📧 Newsletter integration
-- 🎁 Dynamic special offers section
+### ☕ [CAFFE - Coffee Shop Website](https://github.com/Yigittalha/caffe-website)
+Modern responsive website built with React & Tailwind CSS
 
-### 🤖 Baby AI Assistant
-Intelligent AI assistant with natural language processing capabilities
-- 🧠 Machine learning integration
-- 💭 Context-aware responses
-- 🔄 Continuous learning algorithms
+### 🤖 Baby AI Assistant  
+AI-powered assistant with natural language processing capabilities
 
 ## 📊 GitHub Stats
 
@@ -52,21 +51,27 @@ Intelligent AI assistant with natural language processing capabilities
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yigittalha&theme=radical&hide_border=false" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigittalha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
 ## 🌱 Currently Learning
 
-- 🐍 **Advanced Python** libraries (NumPy, Pandas, Scikit-learn)
+- 🐍 **Advanced Python** libraries (NumPy, Pandas, FastAPI)
 - 🗄️ **Database optimization** with MySQL
 - ⚛️ **React ecosystem** (Next.js, Redux)
+- 🔌 **RESTful API** design patterns
+- 🐳 **Docker orchestration** 
 - 🤖 **AI/ML frameworks** for web integration
 - ☁️ **Cloud technologies** (AWS, Vercel)
 
-## 💡 What I Love
+## 💡 What I Love Building
 
-- 🎨 Creating beautiful, user-friendly interfaces
-- 🧩 Solving complex problems with elegant solutions  
-- 🚀 Exploring cutting-edge web technologies
-- ☕ Building applications that bring joy (like coffee websites!)
-- 🤝 Collaborating on open-source projects
+- 🎨 **Beautiful UIs** that users actually enjoy using
+- 🔧 **Robust APIs** that handle real-world complexity  
+- 🐳 **Containerized apps** that deploy anywhere
+- 🧩 **Scalable solutions** for growing businesses
+- 🤖 **AI-powered applications** that solve real problems
 
 ## 📫 Let's Connect!
 
