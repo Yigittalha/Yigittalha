@@ -1,7 +1,7 @@
 # Hey there! I'm Yigit 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;RESTful+API+Designer;Docker+Enthusiast;AI+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;RESTful+API+Designer;Docker+Enthusiast;🎮+Game+Lover;🎵+Music+Addict!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -36,6 +36,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -45,6 +51,16 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yigittalha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yigittalha&theme=react-dark&hide_border=true" width="100%"/>
+
+## 🐍 Watch Snake Eat My Contributions!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Yigittalha/Yigittalha/output/snake.svg" alt="Snake animation" />
 </div>
 
 ## 🌱 Currently Learning
@@ -81,7 +97,5 @@
   <img src="https://komarev.com/ghpvc/?username=Yigittalha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
   **💼 Open to exciting opportunities and collaborations!**  
-  **🌟 Let's build something amazing together!**
+  **🎮 Let's build something amazing together!**
 </div>
-## 🎵 Currently Vibing To
-<img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
